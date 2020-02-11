@@ -2,14 +2,24 @@ from account import Account
 
 class Bank:
     """A Bank has many accounts.
+
+    Args: 
+        name (str): The bank's name.
+
+    Example::
+
+        >>> from bank import Bank
+        >>> bank = Bank("Supersafe Ltd")
+        Bank Supersafe Ltd            | Open for business.
+        >>> bank.add_account("Heihei")
+        Bank Supersafe Ltd            | added an account named Heihei.
+        >>> bank.deposit("Heihei", 400)
+        Account Heihei                | Deposited 400. New balance is 400.
+        Bank Supersafe Ltd            | Deposit of 400 to Heihei accepted.
     """
 
     def __init__(self, name):
         """The Bank constructor creates a new Bank instance.
-
-        Args: 
-            name: A string for the bank name.
-            verbose: If True, will report on all activity.
         """
         self.name = name
         self.accounts = {}
@@ -19,7 +29,7 @@ class Bank:
         """Adds a new account to the bank if allowed.
 
         Returns:
-            Whether the request succeeded.
+            bool: Whether the request succeeded.
         """
         if self.account_exists(account_name):
             note = "Add account rejected. An account named {} already exists"
@@ -33,14 +43,24 @@ class Bank:
 
     def account_exists(self, account_name):
         """Checks whether an account exists.
+
+        Args:
+            account_name (str): The account name.
+
+        Returns:
+            bool: Whether the account exists.
         """
         return account_name in self.accounts.keys()
 
     def deposit(self, account_name, amount):
         """Accepts a deposit into an account.
 
+        Args:
+            account_name (str): The account name.
+            amount (float): The amount to deposit.
+
         Returns:
-            Whether the deposit succeeded.
+            bool: Whether the deposit succeeded.
         """
         if self.account_exists(account_name):
             self.accounts[account_name].deposit(amount)
@@ -53,10 +73,14 @@ class Bank:
             return False
 
     def withdraw(self, account_name, amount):
-        """Withdraws money from an account.
+        """Withdraws money from an account if possible.
+
+        Args:
+            account_name (str): The account name.
+            amount (float): The amount to withdraw.
 
         Returns:
-            Whether the withdrawal succeeded.
+            bool: Whether the withdrawal succeeded.
         """
         if self.account_exists(account_name):
             success = self.accounts[account_name].withdraw(amount)
@@ -75,5 +99,8 @@ class Bank:
 
     def report(self, activity):
         """Prints out a successful activity.
+        
+        Args: 
+            activity (str): A description of what happened.
         """
         print("{:30}| {}.".format("Bank " + self.name, activity))
