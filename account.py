@@ -1,6 +1,6 @@
 
 class Account:
-    """An account is 
+    """An account is
     """
 
     def __init__(self, name):
@@ -39,8 +39,17 @@ class Account:
             self.report(note.format(amount, self.balance))
             return True
 
+    def check_balance(self):
+        """Reports the balance of the account
+
+        Returns:
+            The account balance.
+        """
+        note = "Current balance is {}"
+        self.report(note.format(self.balance))
+        return self.balance
+
     def report(self, activity):
         """Prints out a report of activity.
         """
         print("{:<30}| {}.".format("Account " + self.name, activity))
-

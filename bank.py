@@ -7,7 +7,7 @@ class Bank:
     def __init__(self, name):
         """The Bank constructor creates a new Bank instance.
 
-        Args: 
+        Args:
             name: A string for the bank name.
             verbose: If True, will report on all activity.
         """
@@ -73,7 +73,33 @@ class Bank:
             self.report(note.format(amount, account_name))
             return False
 
+    def check_balance(self, account_name):
+        """ Checks the balance of an account if one exists
+
+        Returns:
+            The balance of the account or None if the account doesn't exist.
+        """
+        if self.account_exists(account_name):
+            acct_balance = self.accounts[account_name].check_balance()
+            note = "Checking balance of {}"
+            self.report(note.format(account_name))
+            return acct_balance
+        else:
+            note = "No account named {}"
+            self.report(note.format(account_name))
+            return None
+
     def report(self, activity):
         """Prints out a successful activity.
         """
         print("{:30}| {}.".format("Bank " + self.name, activity))
+
+
+    def transfer(self, transfer_from_acct, transfer_to_acct, amount):
+        """ Transfers money between two accounts if the transfer_from_acct has sufficient funds to complete the transfer
+
+        Returns:
+            Whether the transfer was successful
+        """
+        # ➡️======== 💻 DELETE THIS LINE AND WRITE YOUR TRANSFER() CODE HERE 💻 ========⬅️
+        pass
