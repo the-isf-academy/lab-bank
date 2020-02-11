@@ -2,8 +2,9 @@
 
 ## Use classes
 
-- in Python shell, have students:
-  - Instantiate classes. 
+- Run `central.py`
+- In Python shell, have students instantiate, interact with classes
+- Write another script that plays with classes using loops
     
 ## Anatomy of a class
  
