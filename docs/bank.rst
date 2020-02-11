@@ -1,0 +1,5 @@
+Bank
+====
+
+.. automodule:: bank
+   :members:
