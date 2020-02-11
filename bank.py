@@ -37,7 +37,7 @@ class Bank:
             return False
         else:
             self.accounts[account_name] = Account(account_name)
-            note = "added an account named {}"
+            note = "Added an account named {}"
             self.report(note.format(account_name))
             return True
 
