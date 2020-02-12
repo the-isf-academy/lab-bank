@@ -37,6 +37,7 @@ class TestBankLab(unittest.TestCase):
         output = sys.stdout.getvalue()
         self.assertEqual(output, expected_output)
         sys.stdout = stdout
+
     def test_transfer0(self):
         """
         Test simple transfer that should be successful
@@ -114,6 +115,21 @@ class TestBankLab(unittest.TestCase):
         hsbc.deposit("Han", 200)
         hsbc.transfer("Han", "Han", 100)
         self.assertEqual(hsbc.check_balance("Han"), 200)
+        output = sys.stdout.getvalue()
+        sys.stdout = stdout
+
+    def test_bug_fix(self):
+        """
+        Testing to see if student has addressed security flaw.
+        """
+        stdout = sys.stdout
+        sys.stdout = io.StringIO()
+        hsbc = Bank("HSBC")
+        hsbc.add_account("Han")
+        hsbc.deposit("Han", 200)
+        hsbc.withdraw("Han", 100)
+        self.assertFalse(hsbc.withdraw("Han", -1000))
+        self.assertEqual(hsbc.check_balance("Han"), 100)
         output = sys.stdout.getvalue()
         sys.stdout = stdout
 
