@@ -1,43 +1,34 @@
-# Unit 2, Lesson 0
+# Unit 2 Lab: Don't break the bank
 
-## Use classes
+## Getting started
 
-- Run `central.py`
-- In Python shell, have students instantiate, interact with classes
-- Write another script that plays with classes using loops
-    
-## Anatomy of a class
- 
-- declaration line
-    - base class
-    - docstring
-- indentaition
-    - attributes
-    - methods
-        - self argument
-        - docstrings
-- constructor
-    - no return value
-- Exceptions
-- reading documentation
+Clone this repo and find the lab walk through here: [cs.fablearn.org](https://cs.fablearn.org/labs/2-0-bank lab.html)
 
-## Extending classes
+## Testing
 
-New method: 
+Files for testing purposes:
 
-    Bank.transfer(from_account, to_account, amount)
+- `test_lab.py`
+- `test_output.txt`
 
-New attributes:
+Along the way, you can test your code by running `python test_lab.py`. Include the `-k part2`, `-k transfer`, or `-k bug` to run tests only for one section of the lab.
 
-    Account.password
+Feel free to look into any of the test files, but don't edit them.
 
-Implement password-checking on accounts. Should the bank check passwords, or
-should the account check them? Are passwords required for transfers?
+## Submission
 
-## Hacking the bank
+Commit and push to Github to submit this lab. 
 
-- Find security issues. 
-- Can you fix them? 
+Along the way, make sure you are documenting your progress by making regular commits.
+
+## Lab Sections
+
+This lab has 4 parts:
+
+1. Learn about using OOP in Python
+2. Understand the Bank and Account class BISF has developed as part of their accounting system
+3. Add a new function to BISF's system
+4. Break into the bank -- and propose security fixes for the vulnerabilities
 
 ## Notes
 
