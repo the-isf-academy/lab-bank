@@ -2,7 +2,7 @@
 
 ## Getting started
 
-Clone this repo and find the lab walk through here: [cs.fablearn.org](https://cs.fablearn.org/labs/2-0-bank lab.html)
+Clone this repo and find the lab walk through here: [cs.fablearn.org](https://cs.fablearn.org/labs/2-0-bank%20lab.html)
 
 ## Testing
 
