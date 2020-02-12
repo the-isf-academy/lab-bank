@@ -100,6 +100,9 @@ class Bank:
     def check_balance(self, account_name):
         """ Checks the balance of an account if one exists
 
+        Args:
+            account_name (str): The account name.
+
         Returns:
             The balance of the account or None if the account doesn't exist.
         """

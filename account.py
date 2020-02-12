@@ -70,6 +70,9 @@ class Account:
     def check_balance(self):
         """Reports the balance of the account
 
+        Args:
+            account_name (str): The account name.
+
         Returns:
             The account balance.
         """
