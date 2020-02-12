@@ -125,11 +125,4 @@ class Bank:
         print("{:30}| {}.".format("Bank " + self.name, activity))
 
 
-    def transfer(self, transfer_from_acct, transfer_to_acct, amount):
-        """ Transfers money between two accounts if the transfer_from_acct has sufficient funds to complete the transfer
-
-        Returns:
-            Whether the transfer was successful
-        """
-        # ➡️======== 💻 DELETE THIS LINE AND WRITE YOUR TRANSFER() CODE HERE 💻 ========⬅️
-        pass
+# ➡️ ======== 💻 DELETE THIS LINE AND WRITE YOUR TRANSFER() CODE HERE 💻 ========⬅️
