@@ -1,0 +1,1402 @@
+Bank HSBC                     | Open for business.
+Account Account0              | Account opened.
+Bank HSBC                     | Added an account named Account0.
+Account Account0              | Deposited 0. New balance is 0.
+Bank HSBC                     | Deposit of 0 to Account0 accepted.
+Account Account1              | Account opened.
+Bank HSBC                     | Added an account named Account1.
+Account Account1              | Deposited 10. New balance is 10.
+Bank HSBC                     | Deposit of 10 to Account1 accepted.
+Account Account2              | Account opened.
+Bank HSBC                     | Added an account named Account2.
+Account Account2              | Deposited 20. New balance is 20.
+Bank HSBC                     | Deposit of 20 to Account2 accepted.
+Account Account3              | Account opened.
+Bank HSBC                     | Added an account named Account3.
+Account Account3              | Deposited 30. New balance is 30.
+Bank HSBC                     | Deposit of 30 to Account3 accepted.
+Account Account4              | Account opened.
+Bank HSBC                     | Added an account named Account4.
+Account Account4              | Deposited 40. New balance is 40.
+Bank HSBC                     | Deposit of 40 to Account4 accepted.
+Account Account5              | Account opened.
+Bank HSBC                     | Added an account named Account5.
+Account Account5              | Deposited 50. New balance is 50.
+Bank HSBC                     | Deposit of 50 to Account5 accepted.
+Account Account6              | Account opened.
+Bank HSBC                     | Added an account named Account6.
+Account Account6              | Deposited 60. New balance is 60.
+Bank HSBC                     | Deposit of 60 to Account6 accepted.
+Account Account7              | Account opened.
+Bank HSBC                     | Added an account named Account7.
+Account Account7              | Deposited 70. New balance is 70.
+Bank HSBC                     | Deposit of 70 to Account7 accepted.
+Account Account8              | Account opened.
+Bank HSBC                     | Added an account named Account8.
+Account Account8              | Deposited 80. New balance is 80.
+Bank HSBC                     | Deposit of 80 to Account8 accepted.
+Account Account9              | Account opened.
+Bank HSBC                     | Added an account named Account9.
+Account Account9              | Deposited 90. New balance is 90.
+Bank HSBC                     | Deposit of 90 to Account9 accepted.
+Account Account10             | Account opened.
+Bank HSBC                     | Added an account named Account10.
+Account Account10             | Deposited 100. New balance is 100.
+Bank HSBC                     | Deposit of 100 to Account10 accepted.
+Account Account11             | Account opened.
+Bank HSBC                     | Added an account named Account11.
+Account Account11             | Deposited 110. New balance is 110.
+Bank HSBC                     | Deposit of 110 to Account11 accepted.
+Account Account12             | Account opened.
+Bank HSBC                     | Added an account named Account12.
+Account Account12             | Deposited 120. New balance is 120.
+Bank HSBC                     | Deposit of 120 to Account12 accepted.
+Account Account13             | Account opened.
+Bank HSBC                     | Added an account named Account13.
+Account Account13             | Deposited 130. New balance is 130.
+Bank HSBC                     | Deposit of 130 to Account13 accepted.
+Account Account14             | Account opened.
+Bank HSBC                     | Added an account named Account14.
+Account Account14             | Deposited 140. New balance is 140.
+Bank HSBC                     | Deposit of 140 to Account14 accepted.
+Account Account15             | Account opened.
+Bank HSBC                     | Added an account named Account15.
+Account Account15             | Deposited 150. New balance is 150.
+Bank HSBC                     | Deposit of 150 to Account15 accepted.
+Account Account16             | Account opened.
+Bank HSBC                     | Added an account named Account16.
+Account Account16             | Deposited 160. New balance is 160.
+Bank HSBC                     | Deposit of 160 to Account16 accepted.
+Account Account17             | Account opened.
+Bank HSBC                     | Added an account named Account17.
+Account Account17             | Deposited 170. New balance is 170.
+Bank HSBC                     | Deposit of 170 to Account17 accepted.
+Account Account18             | Account opened.
+Bank HSBC                     | Added an account named Account18.
+Account Account18             | Deposited 180. New balance is 180.
+Bank HSBC                     | Deposit of 180 to Account18 accepted.
+Account Account19             | Account opened.
+Bank HSBC                     | Added an account named Account19.
+Account Account19             | Deposited 190. New balance is 190.
+Bank HSBC                     | Deposit of 190 to Account19 accepted.
+Account Account20             | Account opened.
+Bank HSBC                     | Added an account named Account20.
+Account Account20             | Deposited 200. New balance is 200.
+Bank HSBC                     | Deposit of 200 to Account20 accepted.
+Account Account21             | Account opened.
+Bank HSBC                     | Added an account named Account21.
+Account Account21             | Deposited 210. New balance is 210.
+Bank HSBC                     | Deposit of 210 to Account21 accepted.
+Account Account22             | Account opened.
+Bank HSBC                     | Added an account named Account22.
+Account Account22             | Deposited 220. New balance is 220.
+Bank HSBC                     | Deposit of 220 to Account22 accepted.
+Account Account23             | Account opened.
+Bank HSBC                     | Added an account named Account23.
+Account Account23             | Deposited 230. New balance is 230.
+Bank HSBC                     | Deposit of 230 to Account23 accepted.
+Account Account24             | Account opened.
+Bank HSBC                     | Added an account named Account24.
+Account Account24             | Deposited 240. New balance is 240.
+Bank HSBC                     | Deposit of 240 to Account24 accepted.
+Account Account25             | Account opened.
+Bank HSBC                     | Added an account named Account25.
+Account Account25             | Deposited 250. New balance is 250.
+Bank HSBC                     | Deposit of 250 to Account25 accepted.
+Account Account26             | Account opened.
+Bank HSBC                     | Added an account named Account26.
+Account Account26             | Deposited 260. New balance is 260.
+Bank HSBC                     | Deposit of 260 to Account26 accepted.
+Account Account27             | Account opened.
+Bank HSBC                     | Added an account named Account27.
+Account Account27             | Deposited 270. New balance is 270.
+Bank HSBC                     | Deposit of 270 to Account27 accepted.
+Account Account28             | Account opened.
+Bank HSBC                     | Added an account named Account28.
+Account Account28             | Deposited 280. New balance is 280.
+Bank HSBC                     | Deposit of 280 to Account28 accepted.
+Account Account29             | Account opened.
+Bank HSBC                     | Added an account named Account29.
+Account Account29             | Deposited 290. New balance is 290.
+Bank HSBC                     | Deposit of 290 to Account29 accepted.
+Account Account30             | Account opened.
+Bank HSBC                     | Added an account named Account30.
+Account Account30             | Deposited 300. New balance is 300.
+Bank HSBC                     | Deposit of 300 to Account30 accepted.
+Account Account31             | Account opened.
+Bank HSBC                     | Added an account named Account31.
+Account Account31             | Deposited 310. New balance is 310.
+Bank HSBC                     | Deposit of 310 to Account31 accepted.
+Account Account32             | Account opened.
+Bank HSBC                     | Added an account named Account32.
+Account Account32             | Deposited 320. New balance is 320.
+Bank HSBC                     | Deposit of 320 to Account32 accepted.
+Account Account33             | Account opened.
+Bank HSBC                     | Added an account named Account33.
+Account Account33             | Deposited 330. New balance is 330.
+Bank HSBC                     | Deposit of 330 to Account33 accepted.
+Account Account34             | Account opened.
+Bank HSBC                     | Added an account named Account34.
+Account Account34             | Deposited 340. New balance is 340.
+Bank HSBC                     | Deposit of 340 to Account34 accepted.
+Account Account35             | Account opened.
+Bank HSBC                     | Added an account named Account35.
+Account Account35             | Deposited 350. New balance is 350.
+Bank HSBC                     | Deposit of 350 to Account35 accepted.
+Account Account36             | Account opened.
+Bank HSBC                     | Added an account named Account36.
+Account Account36             | Deposited 360. New balance is 360.
+Bank HSBC                     | Deposit of 360 to Account36 accepted.
+Account Account37             | Account opened.
+Bank HSBC                     | Added an account named Account37.
+Account Account37             | Deposited 370. New balance is 370.
+Bank HSBC                     | Deposit of 370 to Account37 accepted.
+Account Account38             | Account opened.
+Bank HSBC                     | Added an account named Account38.
+Account Account38             | Deposited 380. New balance is 380.
+Bank HSBC                     | Deposit of 380 to Account38 accepted.
+Account Account39             | Account opened.
+Bank HSBC                     | Added an account named Account39.
+Account Account39             | Deposited 390. New balance is 390.
+Bank HSBC                     | Deposit of 390 to Account39 accepted.
+Account Account40             | Account opened.
+Bank HSBC                     | Added an account named Account40.
+Account Account40             | Deposited 400. New balance is 400.
+Bank HSBC                     | Deposit of 400 to Account40 accepted.
+Account Account41             | Account opened.
+Bank HSBC                     | Added an account named Account41.
+Account Account41             | Deposited 410. New balance is 410.
+Bank HSBC                     | Deposit of 410 to Account41 accepted.
+Account Account42             | Account opened.
+Bank HSBC                     | Added an account named Account42.
+Account Account42             | Deposited 420. New balance is 420.
+Bank HSBC                     | Deposit of 420 to Account42 accepted.
+Account Account43             | Account opened.
+Bank HSBC                     | Added an account named Account43.
+Account Account43             | Deposited 430. New balance is 430.
+Bank HSBC                     | Deposit of 430 to Account43 accepted.
+Account Account44             | Account opened.
+Bank HSBC                     | Added an account named Account44.
+Account Account44             | Deposited 440. New balance is 440.
+Bank HSBC                     | Deposit of 440 to Account44 accepted.
+Account Account45             | Account opened.
+Bank HSBC                     | Added an account named Account45.
+Account Account45             | Deposited 450. New balance is 450.
+Bank HSBC                     | Deposit of 450 to Account45 accepted.
+Account Account46             | Account opened.
+Bank HSBC                     | Added an account named Account46.
+Account Account46             | Deposited 460. New balance is 460.
+Bank HSBC                     | Deposit of 460 to Account46 accepted.
+Account Account47             | Account opened.
+Bank HSBC                     | Added an account named Account47.
+Account Account47             | Deposited 470. New balance is 470.
+Bank HSBC                     | Deposit of 470 to Account47 accepted.
+Account Account48             | Account opened.
+Bank HSBC                     | Added an account named Account48.
+Account Account48             | Deposited 480. New balance is 480.
+Bank HSBC                     | Deposit of 480 to Account48 accepted.
+Account Account49             | Account opened.
+Bank HSBC                     | Added an account named Account49.
+Account Account49             | Deposited 490. New balance is 490.
+Bank HSBC                     | Deposit of 490 to Account49 accepted.
+Account Account50             | Account opened.
+Bank HSBC                     | Added an account named Account50.
+Account Account50             | Deposited 500. New balance is 500.
+Bank HSBC                     | Deposit of 500 to Account50 accepted.
+Account Account51             | Account opened.
+Bank HSBC                     | Added an account named Account51.
+Account Account51             | Deposited 510. New balance is 510.
+Bank HSBC                     | Deposit of 510 to Account51 accepted.
+Account Account52             | Account opened.
+Bank HSBC                     | Added an account named Account52.
+Account Account52             | Deposited 520. New balance is 520.
+Bank HSBC                     | Deposit of 520 to Account52 accepted.
+Account Account53             | Account opened.
+Bank HSBC                     | Added an account named Account53.
+Account Account53             | Deposited 530. New balance is 530.
+Bank HSBC                     | Deposit of 530 to Account53 accepted.
+Account Account54             | Account opened.
+Bank HSBC                     | Added an account named Account54.
+Account Account54             | Deposited 540. New balance is 540.
+Bank HSBC                     | Deposit of 540 to Account54 accepted.
+Account Account55             | Account opened.
+Bank HSBC                     | Added an account named Account55.
+Account Account55             | Deposited 550. New balance is 550.
+Bank HSBC                     | Deposit of 550 to Account55 accepted.
+Account Account56             | Account opened.
+Bank HSBC                     | Added an account named Account56.
+Account Account56             | Deposited 560. New balance is 560.
+Bank HSBC                     | Deposit of 560 to Account56 accepted.
+Account Account57             | Account opened.
+Bank HSBC                     | Added an account named Account57.
+Account Account57             | Deposited 570. New balance is 570.
+Bank HSBC                     | Deposit of 570 to Account57 accepted.
+Account Account58             | Account opened.
+Bank HSBC                     | Added an account named Account58.
+Account Account58             | Deposited 580. New balance is 580.
+Bank HSBC                     | Deposit of 580 to Account58 accepted.
+Account Account59             | Account opened.
+Bank HSBC                     | Added an account named Account59.
+Account Account59             | Deposited 590. New balance is 590.
+Bank HSBC                     | Deposit of 590 to Account59 accepted.
+Account Account60             | Account opened.
+Bank HSBC                     | Added an account named Account60.
+Account Account60             | Deposited 600. New balance is 600.
+Bank HSBC                     | Deposit of 600 to Account60 accepted.
+Account Account61             | Account opened.
+Bank HSBC                     | Added an account named Account61.
+Account Account61             | Deposited 610. New balance is 610.
+Bank HSBC                     | Deposit of 610 to Account61 accepted.
+Account Account62             | Account opened.
+Bank HSBC                     | Added an account named Account62.
+Account Account62             | Deposited 620. New balance is 620.
+Bank HSBC                     | Deposit of 620 to Account62 accepted.
+Account Account63             | Account opened.
+Bank HSBC                     | Added an account named Account63.
+Account Account63             | Deposited 630. New balance is 630.
+Bank HSBC                     | Deposit of 630 to Account63 accepted.
+Account Account64             | Account opened.
+Bank HSBC                     | Added an account named Account64.
+Account Account64             | Deposited 640. New balance is 640.
+Bank HSBC                     | Deposit of 640 to Account64 accepted.
+Account Account65             | Account opened.
+Bank HSBC                     | Added an account named Account65.
+Account Account65             | Deposited 650. New balance is 650.
+Bank HSBC                     | Deposit of 650 to Account65 accepted.
+Account Account66             | Account opened.
+Bank HSBC                     | Added an account named Account66.
+Account Account66             | Deposited 660. New balance is 660.
+Bank HSBC                     | Deposit of 660 to Account66 accepted.
+Account Account67             | Account opened.
+Bank HSBC                     | Added an account named Account67.
+Account Account67             | Deposited 670. New balance is 670.
+Bank HSBC                     | Deposit of 670 to Account67 accepted.
+Account Account68             | Account opened.
+Bank HSBC                     | Added an account named Account68.
+Account Account68             | Deposited 680. New balance is 680.
+Bank HSBC                     | Deposit of 680 to Account68 accepted.
+Account Account69             | Account opened.
+Bank HSBC                     | Added an account named Account69.
+Account Account69             | Deposited 690. New balance is 690.
+Bank HSBC                     | Deposit of 690 to Account69 accepted.
+Account Account70             | Account opened.
+Bank HSBC                     | Added an account named Account70.
+Account Account70             | Deposited 700. New balance is 700.
+Bank HSBC                     | Deposit of 700 to Account70 accepted.
+Account Account71             | Account opened.
+Bank HSBC                     | Added an account named Account71.
+Account Account71             | Deposited 710. New balance is 710.
+Bank HSBC                     | Deposit of 710 to Account71 accepted.
+Account Account72             | Account opened.
+Bank HSBC                     | Added an account named Account72.
+Account Account72             | Deposited 720. New balance is 720.
+Bank HSBC                     | Deposit of 720 to Account72 accepted.
+Account Account73             | Account opened.
+Bank HSBC                     | Added an account named Account73.
+Account Account73             | Deposited 730. New balance is 730.
+Bank HSBC                     | Deposit of 730 to Account73 accepted.
+Account Account74             | Account opened.
+Bank HSBC                     | Added an account named Account74.
+Account Account74             | Deposited 740. New balance is 740.
+Bank HSBC                     | Deposit of 740 to Account74 accepted.
+Account Account75             | Account opened.
+Bank HSBC                     | Added an account named Account75.
+Account Account75             | Deposited 750. New balance is 750.
+Bank HSBC                     | Deposit of 750 to Account75 accepted.
+Account Account76             | Account opened.
+Bank HSBC                     | Added an account named Account76.
+Account Account76             | Deposited 760. New balance is 760.
+Bank HSBC                     | Deposit of 760 to Account76 accepted.
+Account Account77             | Account opened.
+Bank HSBC                     | Added an account named Account77.
+Account Account77             | Deposited 770. New balance is 770.
+Bank HSBC                     | Deposit of 770 to Account77 accepted.
+Account Account78             | Account opened.
+Bank HSBC                     | Added an account named Account78.
+Account Account78             | Deposited 780. New balance is 780.
+Bank HSBC                     | Deposit of 780 to Account78 accepted.
+Account Account79             | Account opened.
+Bank HSBC                     | Added an account named Account79.
+Account Account79             | Deposited 790. New balance is 790.
+Bank HSBC                     | Deposit of 790 to Account79 accepted.
+Account Account80             | Account opened.
+Bank HSBC                     | Added an account named Account80.
+Account Account80             | Deposited 800. New balance is 800.
+Bank HSBC                     | Deposit of 800 to Account80 accepted.
+Account Account81             | Account opened.
+Bank HSBC                     | Added an account named Account81.
+Account Account81             | Deposited 810. New balance is 810.
+Bank HSBC                     | Deposit of 810 to Account81 accepted.
+Account Account82             | Account opened.
+Bank HSBC                     | Added an account named Account82.
+Account Account82             | Deposited 820. New balance is 820.
+Bank HSBC                     | Deposit of 820 to Account82 accepted.
+Account Account83             | Account opened.
+Bank HSBC                     | Added an account named Account83.
+Account Account83             | Deposited 830. New balance is 830.
+Bank HSBC                     | Deposit of 830 to Account83 accepted.
+Account Account84             | Account opened.
+Bank HSBC                     | Added an account named Account84.
+Account Account84             | Deposited 840. New balance is 840.
+Bank HSBC                     | Deposit of 840 to Account84 accepted.
+Account Account85             | Account opened.
+Bank HSBC                     | Added an account named Account85.
+Account Account85             | Deposited 850. New balance is 850.
+Bank HSBC                     | Deposit of 850 to Account85 accepted.
+Account Account86             | Account opened.
+Bank HSBC                     | Added an account named Account86.
+Account Account86             | Deposited 860. New balance is 860.
+Bank HSBC                     | Deposit of 860 to Account86 accepted.
+Account Account87             | Account opened.
+Bank HSBC                     | Added an account named Account87.
+Account Account87             | Deposited 870. New balance is 870.
+Bank HSBC                     | Deposit of 870 to Account87 accepted.
+Account Account88             | Account opened.
+Bank HSBC                     | Added an account named Account88.
+Account Account88             | Deposited 880. New balance is 880.
+Bank HSBC                     | Deposit of 880 to Account88 accepted.
+Account Account89             | Account opened.
+Bank HSBC                     | Added an account named Account89.
+Account Account89             | Deposited 890. New balance is 890.
+Bank HSBC                     | Deposit of 890 to Account89 accepted.
+Account Account90             | Account opened.
+Bank HSBC                     | Added an account named Account90.
+Account Account90             | Deposited 900. New balance is 900.
+Bank HSBC                     | Deposit of 900 to Account90 accepted.
+Account Account91             | Account opened.
+Bank HSBC                     | Added an account named Account91.
+Account Account91             | Deposited 910. New balance is 910.
+Bank HSBC                     | Deposit of 910 to Account91 accepted.
+Account Account92             | Account opened.
+Bank HSBC                     | Added an account named Account92.
+Account Account92             | Deposited 920. New balance is 920.
+Bank HSBC                     | Deposit of 920 to Account92 accepted.
+Account Account93             | Account opened.
+Bank HSBC                     | Added an account named Account93.
+Account Account93             | Deposited 930. New balance is 930.
+Bank HSBC                     | Deposit of 930 to Account93 accepted.
+Account Account94             | Account opened.
+Bank HSBC                     | Added an account named Account94.
+Account Account94             | Deposited 940. New balance is 940.
+Bank HSBC                     | Deposit of 940 to Account94 accepted.
+Account Account95             | Account opened.
+Bank HSBC                     | Added an account named Account95.
+Account Account95             | Deposited 950. New balance is 950.
+Bank HSBC                     | Deposit of 950 to Account95 accepted.
+Account Account96             | Account opened.
+Bank HSBC                     | Added an account named Account96.
+Account Account96             | Deposited 960. New balance is 960.
+Bank HSBC                     | Deposit of 960 to Account96 accepted.
+Account Account97             | Account opened.
+Bank HSBC                     | Added an account named Account97.
+Account Account97             | Deposited 970. New balance is 970.
+Bank HSBC                     | Deposit of 970 to Account97 accepted.
+Account Account98             | Account opened.
+Bank HSBC                     | Added an account named Account98.
+Account Account98             | Deposited 980. New balance is 980.
+Bank HSBC                     | Deposit of 980 to Account98 accepted.
+Account Account99             | Account opened.
+Bank HSBC                     | Added an account named Account99.
+Account Account99             | Deposited 990. New balance is 990.
+Bank HSBC                     | Deposit of 990 to Account99 accepted.
+Bank BISF                     | Open for business.
+Account Account0              | Current balance is 0.
+Bank HSBC                     | Checking balance of Account0.
+Account Account0              | Withdrew 0. New balance is 0.
+Bank HSBC                     | Withdrawal of 0 from Account0 accepted.
+Account Account0              | Account opened.
+Bank BISF                     | Added an account named Account0.
+Account Account0              | Deposited 0. New balance is 0.
+Bank BISF                     | Deposit of 0 to Account0 accepted.
+Account Account0              | Deposited 0. New balance is 0.
+Bank BISF                     | Deposit of 0 to Account0 accepted.
+Account Account1              | Current balance is 10.
+Bank HSBC                     | Checking balance of Account1.
+Account Account1              | Withdrew 10. New balance is 0.
+Bank HSBC                     | Withdrawal of 10 from Account1 accepted.
+Account Account1              | Account opened.
+Bank BISF                     | Added an account named Account1.
+Account Account1              | Deposited 10. New balance is 10.
+Bank BISF                     | Deposit of 10 to Account1 accepted.
+Account Account1              | Deposited 10. New balance is 20.
+Bank BISF                     | Deposit of 10 to Account1 accepted.
+Account Account2              | Current balance is 20.
+Bank HSBC                     | Checking balance of Account2.
+Account Account2              | Withdrew 20. New balance is 0.
+Bank HSBC                     | Withdrawal of 20 from Account2 accepted.
+Account Account2              | Account opened.
+Bank BISF                     | Added an account named Account2.
+Account Account2              | Deposited 20. New balance is 20.
+Bank BISF                     | Deposit of 20 to Account2 accepted.
+Account Account2              | Deposited 20. New balance is 40.
+Bank BISF                     | Deposit of 20 to Account2 accepted.
+Account Account3              | Current balance is 30.
+Bank HSBC                     | Checking balance of Account3.
+Account Account3              | Withdrew 30. New balance is 0.
+Bank HSBC                     | Withdrawal of 30 from Account3 accepted.
+Account Account3              | Account opened.
+Bank BISF                     | Added an account named Account3.
+Account Account3              | Deposited 30. New balance is 30.
+Bank BISF                     | Deposit of 30 to Account3 accepted.
+Account Account3              | Deposited 30. New balance is 60.
+Bank BISF                     | Deposit of 30 to Account3 accepted.
+Account Account4              | Current balance is 40.
+Bank HSBC                     | Checking balance of Account4.
+Account Account4              | Withdrew 40. New balance is 0.
+Bank HSBC                     | Withdrawal of 40 from Account4 accepted.
+Account Account4              | Account opened.
+Bank BISF                     | Added an account named Account4.
+Account Account4              | Deposited 40. New balance is 40.
+Bank BISF                     | Deposit of 40 to Account4 accepted.
+Account Account4              | Deposited 40. New balance is 80.
+Bank BISF                     | Deposit of 40 to Account4 accepted.
+Account Account5              | Current balance is 50.
+Bank HSBC                     | Checking balance of Account5.
+Account Account5              | Withdrew 50. New balance is 0.
+Bank HSBC                     | Withdrawal of 50 from Account5 accepted.
+Account Account5              | Account opened.
+Bank BISF                     | Added an account named Account5.
+Account Account5              | Deposited 50. New balance is 50.
+Bank BISF                     | Deposit of 50 to Account5 accepted.
+Account Account5              | Deposited 50. New balance is 100.
+Bank BISF                     | Deposit of 50 to Account5 accepted.
+Account Account6              | Current balance is 60.
+Bank HSBC                     | Checking balance of Account6.
+Account Account6              | Withdrew 60. New balance is 0.
+Bank HSBC                     | Withdrawal of 60 from Account6 accepted.
+Account Account6              | Account opened.
+Bank BISF                     | Added an account named Account6.
+Account Account6              | Deposited 60. New balance is 60.
+Bank BISF                     | Deposit of 60 to Account6 accepted.
+Account Account6              | Deposited 60. New balance is 120.
+Bank BISF                     | Deposit of 60 to Account6 accepted.
+Account Account7              | Current balance is 70.
+Bank HSBC                     | Checking balance of Account7.
+Account Account7              | Withdrew 70. New balance is 0.
+Bank HSBC                     | Withdrawal of 70 from Account7 accepted.
+Account Account7              | Account opened.
+Bank BISF                     | Added an account named Account7.
+Account Account7              | Deposited 70. New balance is 70.
+Bank BISF                     | Deposit of 70 to Account7 accepted.
+Account Account7              | Deposited 70. New balance is 140.
+Bank BISF                     | Deposit of 70 to Account7 accepted.
+Account Account8              | Current balance is 80.
+Bank HSBC                     | Checking balance of Account8.
+Account Account8              | Withdrew 80. New balance is 0.
+Bank HSBC                     | Withdrawal of 80 from Account8 accepted.
+Account Account8              | Account opened.
+Bank BISF                     | Added an account named Account8.
+Account Account8              | Deposited 80. New balance is 80.
+Bank BISF                     | Deposit of 80 to Account8 accepted.
+Account Account8              | Deposited 80. New balance is 160.
+Bank BISF                     | Deposit of 80 to Account8 accepted.
+Account Account9              | Current balance is 90.
+Bank HSBC                     | Checking balance of Account9.
+Account Account9              | Withdrew 90. New balance is 0.
+Bank HSBC                     | Withdrawal of 90 from Account9 accepted.
+Account Account9              | Account opened.
+Bank BISF                     | Added an account named Account9.
+Account Account9              | Deposited 90. New balance is 90.
+Bank BISF                     | Deposit of 90 to Account9 accepted.
+Account Account9              | Deposited 90. New balance is 180.
+Bank BISF                     | Deposit of 90 to Account9 accepted.
+Account Account10             | Current balance is 100.
+Bank HSBC                     | Checking balance of Account10.
+Account Account10             | Withdrew 100. New balance is 0.
+Bank HSBC                     | Withdrawal of 100 from Account10 accepted.
+Account Account10             | Account opened.
+Bank BISF                     | Added an account named Account10.
+Account Account10             | Deposited 100. New balance is 100.
+Bank BISF                     | Deposit of 100 to Account10 accepted.
+Account Account10             | Deposited 100. New balance is 200.
+Bank BISF                     | Deposit of 100 to Account10 accepted.
+Account Account11             | Current balance is 110.
+Bank HSBC                     | Checking balance of Account11.
+Account Account11             | Withdrew 110. New balance is 0.
+Bank HSBC                     | Withdrawal of 110 from Account11 accepted.
+Account Account11             | Account opened.
+Bank BISF                     | Added an account named Account11.
+Account Account11             | Deposited 110. New balance is 110.
+Bank BISF                     | Deposit of 110 to Account11 accepted.
+Account Account11             | Deposited 110. New balance is 220.
+Bank BISF                     | Deposit of 110 to Account11 accepted.
+Account Account12             | Current balance is 120.
+Bank HSBC                     | Checking balance of Account12.
+Account Account12             | Withdrew 120. New balance is 0.
+Bank HSBC                     | Withdrawal of 120 from Account12 accepted.
+Account Account12             | Account opened.
+Bank BISF                     | Added an account named Account12.
+Account Account12             | Deposited 120. New balance is 120.
+Bank BISF                     | Deposit of 120 to Account12 accepted.
+Account Account12             | Deposited 120. New balance is 240.
+Bank BISF                     | Deposit of 120 to Account12 accepted.
+Account Account13             | Current balance is 130.
+Bank HSBC                     | Checking balance of Account13.
+Account Account13             | Withdrew 130. New balance is 0.
+Bank HSBC                     | Withdrawal of 130 from Account13 accepted.
+Account Account13             | Account opened.
+Bank BISF                     | Added an account named Account13.
+Account Account13             | Deposited 130. New balance is 130.
+Bank BISF                     | Deposit of 130 to Account13 accepted.
+Account Account13             | Deposited 130. New balance is 260.
+Bank BISF                     | Deposit of 130 to Account13 accepted.
+Account Account14             | Current balance is 140.
+Bank HSBC                     | Checking balance of Account14.
+Account Account14             | Withdrew 140. New balance is 0.
+Bank HSBC                     | Withdrawal of 140 from Account14 accepted.
+Account Account14             | Account opened.
+Bank BISF                     | Added an account named Account14.
+Account Account14             | Deposited 140. New balance is 140.
+Bank BISF                     | Deposit of 140 to Account14 accepted.
+Account Account14             | Deposited 140. New balance is 280.
+Bank BISF                     | Deposit of 140 to Account14 accepted.
+Account Account15             | Current balance is 150.
+Bank HSBC                     | Checking balance of Account15.
+Account Account15             | Withdrew 150. New balance is 0.
+Bank HSBC                     | Withdrawal of 150 from Account15 accepted.
+Account Account15             | Account opened.
+Bank BISF                     | Added an account named Account15.
+Account Account15             | Deposited 150. New balance is 150.
+Bank BISF                     | Deposit of 150 to Account15 accepted.
+Account Account15             | Deposited 150. New balance is 300.
+Bank BISF                     | Deposit of 150 to Account15 accepted.
+Account Account16             | Current balance is 160.
+Bank HSBC                     | Checking balance of Account16.
+Account Account16             | Withdrew 160. New balance is 0.
+Bank HSBC                     | Withdrawal of 160 from Account16 accepted.
+Account Account16             | Account opened.
+Bank BISF                     | Added an account named Account16.
+Account Account16             | Deposited 160. New balance is 160.
+Bank BISF                     | Deposit of 160 to Account16 accepted.
+Account Account16             | Deposited 160. New balance is 320.
+Bank BISF                     | Deposit of 160 to Account16 accepted.
+Account Account17             | Current balance is 170.
+Bank HSBC                     | Checking balance of Account17.
+Account Account17             | Withdrew 170. New balance is 0.
+Bank HSBC                     | Withdrawal of 170 from Account17 accepted.
+Account Account17             | Account opened.
+Bank BISF                     | Added an account named Account17.
+Account Account17             | Deposited 170. New balance is 170.
+Bank BISF                     | Deposit of 170 to Account17 accepted.
+Account Account17             | Deposited 170. New balance is 340.
+Bank BISF                     | Deposit of 170 to Account17 accepted.
+Account Account18             | Current balance is 180.
+Bank HSBC                     | Checking balance of Account18.
+Account Account18             | Withdrew 180. New balance is 0.
+Bank HSBC                     | Withdrawal of 180 from Account18 accepted.
+Account Account18             | Account opened.
+Bank BISF                     | Added an account named Account18.
+Account Account18             | Deposited 180. New balance is 180.
+Bank BISF                     | Deposit of 180 to Account18 accepted.
+Account Account18             | Deposited 180. New balance is 360.
+Bank BISF                     | Deposit of 180 to Account18 accepted.
+Account Account19             | Current balance is 190.
+Bank HSBC                     | Checking balance of Account19.
+Account Account19             | Withdrew 190. New balance is 0.
+Bank HSBC                     | Withdrawal of 190 from Account19 accepted.
+Account Account19             | Account opened.
+Bank BISF                     | Added an account named Account19.
+Account Account19             | Deposited 190. New balance is 190.
+Bank BISF                     | Deposit of 190 to Account19 accepted.
+Account Account19             | Deposited 190. New balance is 380.
+Bank BISF                     | Deposit of 190 to Account19 accepted.
+Account Account20             | Current balance is 200.
+Bank HSBC                     | Checking balance of Account20.
+Account Account20             | Withdrew 200. New balance is 0.
+Bank HSBC                     | Withdrawal of 200 from Account20 accepted.
+Account Account20             | Account opened.
+Bank BISF                     | Added an account named Account20.
+Account Account20             | Deposited 200. New balance is 200.
+Bank BISF                     | Deposit of 200 to Account20 accepted.
+Account Account20             | Deposited 200. New balance is 400.
+Bank BISF                     | Deposit of 200 to Account20 accepted.
+Account Account21             | Current balance is 210.
+Bank HSBC                     | Checking balance of Account21.
+Account Account21             | Withdrew 210. New balance is 0.
+Bank HSBC                     | Withdrawal of 210 from Account21 accepted.
+Account Account21             | Account opened.
+Bank BISF                     | Added an account named Account21.
+Account Account21             | Deposited 210. New balance is 210.
+Bank BISF                     | Deposit of 210 to Account21 accepted.
+Account Account21             | Deposited 210. New balance is 420.
+Bank BISF                     | Deposit of 210 to Account21 accepted.
+Account Account22             | Current balance is 220.
+Bank HSBC                     | Checking balance of Account22.
+Account Account22             | Withdrew 220. New balance is 0.
+Bank HSBC                     | Withdrawal of 220 from Account22 accepted.
+Account Account22             | Account opened.
+Bank BISF                     | Added an account named Account22.
+Account Account22             | Deposited 220. New balance is 220.
+Bank BISF                     | Deposit of 220 to Account22 accepted.
+Account Account22             | Deposited 220. New balance is 440.
+Bank BISF                     | Deposit of 220 to Account22 accepted.
+Account Account23             | Current balance is 230.
+Bank HSBC                     | Checking balance of Account23.
+Account Account23             | Withdrew 230. New balance is 0.
+Bank HSBC                     | Withdrawal of 230 from Account23 accepted.
+Account Account23             | Account opened.
+Bank BISF                     | Added an account named Account23.
+Account Account23             | Deposited 230. New balance is 230.
+Bank BISF                     | Deposit of 230 to Account23 accepted.
+Account Account23             | Deposited 230. New balance is 460.
+Bank BISF                     | Deposit of 230 to Account23 accepted.
+Account Account24             | Current balance is 240.
+Bank HSBC                     | Checking balance of Account24.
+Account Account24             | Withdrew 240. New balance is 0.
+Bank HSBC                     | Withdrawal of 240 from Account24 accepted.
+Account Account24             | Account opened.
+Bank BISF                     | Added an account named Account24.
+Account Account24             | Deposited 240. New balance is 240.
+Bank BISF                     | Deposit of 240 to Account24 accepted.
+Account Account24             | Deposited 240. New balance is 480.
+Bank BISF                     | Deposit of 240 to Account24 accepted.
+Account Account25             | Current balance is 250.
+Bank HSBC                     | Checking balance of Account25.
+Account Account25             | Withdrew 250. New balance is 0.
+Bank HSBC                     | Withdrawal of 250 from Account25 accepted.
+Account Account25             | Account opened.
+Bank BISF                     | Added an account named Account25.
+Account Account25             | Deposited 250. New balance is 250.
+Bank BISF                     | Deposit of 250 to Account25 accepted.
+Account Account25             | Deposited 250. New balance is 500.
+Bank BISF                     | Deposit of 250 to Account25 accepted.
+Account Account26             | Current balance is 260.
+Bank HSBC                     | Checking balance of Account26.
+Account Account26             | Withdrew 260. New balance is 0.
+Bank HSBC                     | Withdrawal of 260 from Account26 accepted.
+Account Account26             | Account opened.
+Bank BISF                     | Added an account named Account26.
+Account Account26             | Deposited 260. New balance is 260.
+Bank BISF                     | Deposit of 260 to Account26 accepted.
+Account Account26             | Deposited 260. New balance is 520.
+Bank BISF                     | Deposit of 260 to Account26 accepted.
+Account Account27             | Current balance is 270.
+Bank HSBC                     | Checking balance of Account27.
+Account Account27             | Withdrew 270. New balance is 0.
+Bank HSBC                     | Withdrawal of 270 from Account27 accepted.
+Account Account27             | Account opened.
+Bank BISF                     | Added an account named Account27.
+Account Account27             | Deposited 270. New balance is 270.
+Bank BISF                     | Deposit of 270 to Account27 accepted.
+Account Account27             | Deposited 270. New balance is 540.
+Bank BISF                     | Deposit of 270 to Account27 accepted.
+Account Account28             | Current balance is 280.
+Bank HSBC                     | Checking balance of Account28.
+Account Account28             | Withdrew 280. New balance is 0.
+Bank HSBC                     | Withdrawal of 280 from Account28 accepted.
+Account Account28             | Account opened.
+Bank BISF                     | Added an account named Account28.
+Account Account28             | Deposited 280. New balance is 280.
+Bank BISF                     | Deposit of 280 to Account28 accepted.
+Account Account28             | Deposited 280. New balance is 560.
+Bank BISF                     | Deposit of 280 to Account28 accepted.
+Account Account29             | Current balance is 290.
+Bank HSBC                     | Checking balance of Account29.
+Account Account29             | Withdrew 290. New balance is 0.
+Bank HSBC                     | Withdrawal of 290 from Account29 accepted.
+Account Account29             | Account opened.
+Bank BISF                     | Added an account named Account29.
+Account Account29             | Deposited 290. New balance is 290.
+Bank BISF                     | Deposit of 290 to Account29 accepted.
+Account Account29             | Deposited 290. New balance is 580.
+Bank BISF                     | Deposit of 290 to Account29 accepted.
+Account Account30             | Current balance is 300.
+Bank HSBC                     | Checking balance of Account30.
+Account Account30             | Withdrew 300. New balance is 0.
+Bank HSBC                     | Withdrawal of 300 from Account30 accepted.
+Account Account30             | Account opened.
+Bank BISF                     | Added an account named Account30.
+Account Account30             | Deposited 300. New balance is 300.
+Bank BISF                     | Deposit of 300 to Account30 accepted.
+Account Account30             | Deposited 300. New balance is 600.
+Bank BISF                     | Deposit of 300 to Account30 accepted.
+Account Account31             | Current balance is 310.
+Bank HSBC                     | Checking balance of Account31.
+Account Account31             | Withdrew 310. New balance is 0.
+Bank HSBC                     | Withdrawal of 310 from Account31 accepted.
+Account Account31             | Account opened.
+Bank BISF                     | Added an account named Account31.
+Account Account31             | Deposited 310. New balance is 310.
+Bank BISF                     | Deposit of 310 to Account31 accepted.
+Account Account31             | Deposited 310. New balance is 620.
+Bank BISF                     | Deposit of 310 to Account31 accepted.
+Account Account32             | Current balance is 320.
+Bank HSBC                     | Checking balance of Account32.
+Account Account32             | Withdrew 320. New balance is 0.
+Bank HSBC                     | Withdrawal of 320 from Account32 accepted.
+Account Account32             | Account opened.
+Bank BISF                     | Added an account named Account32.
+Account Account32             | Deposited 320. New balance is 320.
+Bank BISF                     | Deposit of 320 to Account32 accepted.
+Account Account32             | Deposited 320. New balance is 640.
+Bank BISF                     | Deposit of 320 to Account32 accepted.
+Account Account33             | Current balance is 330.
+Bank HSBC                     | Checking balance of Account33.
+Account Account33             | Withdrew 330. New balance is 0.
+Bank HSBC                     | Withdrawal of 330 from Account33 accepted.
+Account Account33             | Account opened.
+Bank BISF                     | Added an account named Account33.
+Account Account33             | Deposited 330. New balance is 330.
+Bank BISF                     | Deposit of 330 to Account33 accepted.
+Account Account33             | Deposited 330. New balance is 660.
+Bank BISF                     | Deposit of 330 to Account33 accepted.
+Account Account34             | Current balance is 340.
+Bank HSBC                     | Checking balance of Account34.
+Account Account34             | Withdrew 340. New balance is 0.
+Bank HSBC                     | Withdrawal of 340 from Account34 accepted.
+Account Account34             | Account opened.
+Bank BISF                     | Added an account named Account34.
+Account Account34             | Deposited 340. New balance is 340.
+Bank BISF                     | Deposit of 340 to Account34 accepted.
+Account Account34             | Deposited 340. New balance is 680.
+Bank BISF                     | Deposit of 340 to Account34 accepted.
+Account Account35             | Current balance is 350.
+Bank HSBC                     | Checking balance of Account35.
+Account Account35             | Withdrew 350. New balance is 0.
+Bank HSBC                     | Withdrawal of 350 from Account35 accepted.
+Account Account35             | Account opened.
+Bank BISF                     | Added an account named Account35.
+Account Account35             | Deposited 350. New balance is 350.
+Bank BISF                     | Deposit of 350 to Account35 accepted.
+Account Account35             | Deposited 350. New balance is 700.
+Bank BISF                     | Deposit of 350 to Account35 accepted.
+Account Account36             | Current balance is 360.
+Bank HSBC                     | Checking balance of Account36.
+Account Account36             | Withdrew 360. New balance is 0.
+Bank HSBC                     | Withdrawal of 360 from Account36 accepted.
+Account Account36             | Account opened.
+Bank BISF                     | Added an account named Account36.
+Account Account36             | Deposited 360. New balance is 360.
+Bank BISF                     | Deposit of 360 to Account36 accepted.
+Account Account36             | Deposited 360. New balance is 720.
+Bank BISF                     | Deposit of 360 to Account36 accepted.
+Account Account37             | Current balance is 370.
+Bank HSBC                     | Checking balance of Account37.
+Account Account37             | Withdrew 370. New balance is 0.
+Bank HSBC                     | Withdrawal of 370 from Account37 accepted.
+Account Account37             | Account opened.
+Bank BISF                     | Added an account named Account37.
+Account Account37             | Deposited 370. New balance is 370.
+Bank BISF                     | Deposit of 370 to Account37 accepted.
+Account Account37             | Deposited 370. New balance is 740.
+Bank BISF                     | Deposit of 370 to Account37 accepted.
+Account Account38             | Current balance is 380.
+Bank HSBC                     | Checking balance of Account38.
+Account Account38             | Withdrew 380. New balance is 0.
+Bank HSBC                     | Withdrawal of 380 from Account38 accepted.
+Account Account38             | Account opened.
+Bank BISF                     | Added an account named Account38.
+Account Account38             | Deposited 380. New balance is 380.
+Bank BISF                     | Deposit of 380 to Account38 accepted.
+Account Account38             | Deposited 380. New balance is 760.
+Bank BISF                     | Deposit of 380 to Account38 accepted.
+Account Account39             | Current balance is 390.
+Bank HSBC                     | Checking balance of Account39.
+Account Account39             | Withdrew 390. New balance is 0.
+Bank HSBC                     | Withdrawal of 390 from Account39 accepted.
+Account Account39             | Account opened.
+Bank BISF                     | Added an account named Account39.
+Account Account39             | Deposited 390. New balance is 390.
+Bank BISF                     | Deposit of 390 to Account39 accepted.
+Account Account39             | Deposited 390. New balance is 780.
+Bank BISF                     | Deposit of 390 to Account39 accepted.
+Account Account40             | Current balance is 400.
+Bank HSBC                     | Checking balance of Account40.
+Account Account40             | Withdrew 400. New balance is 0.
+Bank HSBC                     | Withdrawal of 400 from Account40 accepted.
+Account Account40             | Account opened.
+Bank BISF                     | Added an account named Account40.
+Account Account40             | Deposited 400. New balance is 400.
+Bank BISF                     | Deposit of 400 to Account40 accepted.
+Account Account40             | Deposited 400. New balance is 800.
+Bank BISF                     | Deposit of 400 to Account40 accepted.
+Account Account41             | Current balance is 410.
+Bank HSBC                     | Checking balance of Account41.
+Account Account41             | Withdrew 410. New balance is 0.
+Bank HSBC                     | Withdrawal of 410 from Account41 accepted.
+Account Account41             | Account opened.
+Bank BISF                     | Added an account named Account41.
+Account Account41             | Deposited 410. New balance is 410.
+Bank BISF                     | Deposit of 410 to Account41 accepted.
+Account Account41             | Deposited 410. New balance is 820.
+Bank BISF                     | Deposit of 410 to Account41 accepted.
+Account Account42             | Current balance is 420.
+Bank HSBC                     | Checking balance of Account42.
+Account Account42             | Withdrew 420. New balance is 0.
+Bank HSBC                     | Withdrawal of 420 from Account42 accepted.
+Account Account42             | Account opened.
+Bank BISF                     | Added an account named Account42.
+Account Account42             | Deposited 420. New balance is 420.
+Bank BISF                     | Deposit of 420 to Account42 accepted.
+Account Account42             | Deposited 420. New balance is 840.
+Bank BISF                     | Deposit of 420 to Account42 accepted.
+Account Account43             | Current balance is 430.
+Bank HSBC                     | Checking balance of Account43.
+Account Account43             | Withdrew 430. New balance is 0.
+Bank HSBC                     | Withdrawal of 430 from Account43 accepted.
+Account Account43             | Account opened.
+Bank BISF                     | Added an account named Account43.
+Account Account43             | Deposited 430. New balance is 430.
+Bank BISF                     | Deposit of 430 to Account43 accepted.
+Account Account43             | Deposited 430. New balance is 860.
+Bank BISF                     | Deposit of 430 to Account43 accepted.
+Account Account44             | Current balance is 440.
+Bank HSBC                     | Checking balance of Account44.
+Account Account44             | Withdrew 440. New balance is 0.
+Bank HSBC                     | Withdrawal of 440 from Account44 accepted.
+Account Account44             | Account opened.
+Bank BISF                     | Added an account named Account44.
+Account Account44             | Deposited 440. New balance is 440.
+Bank BISF                     | Deposit of 440 to Account44 accepted.
+Account Account44             | Deposited 440. New balance is 880.
+Bank BISF                     | Deposit of 440 to Account44 accepted.
+Account Account45             | Current balance is 450.
+Bank HSBC                     | Checking balance of Account45.
+Account Account45             | Withdrew 450. New balance is 0.
+Bank HSBC                     | Withdrawal of 450 from Account45 accepted.
+Account Account45             | Account opened.
+Bank BISF                     | Added an account named Account45.
+Account Account45             | Deposited 450. New balance is 450.
+Bank BISF                     | Deposit of 450 to Account45 accepted.
+Account Account45             | Deposited 450. New balance is 900.
+Bank BISF                     | Deposit of 450 to Account45 accepted.
+Account Account46             | Current balance is 460.
+Bank HSBC                     | Checking balance of Account46.
+Account Account46             | Withdrew 460. New balance is 0.
+Bank HSBC                     | Withdrawal of 460 from Account46 accepted.
+Account Account46             | Account opened.
+Bank BISF                     | Added an account named Account46.
+Account Account46             | Deposited 460. New balance is 460.
+Bank BISF                     | Deposit of 460 to Account46 accepted.
+Account Account46             | Deposited 460. New balance is 920.
+Bank BISF                     | Deposit of 460 to Account46 accepted.
+Account Account47             | Current balance is 470.
+Bank HSBC                     | Checking balance of Account47.
+Account Account47             | Withdrew 470. New balance is 0.
+Bank HSBC                     | Withdrawal of 470 from Account47 accepted.
+Account Account47             | Account opened.
+Bank BISF                     | Added an account named Account47.
+Account Account47             | Deposited 470. New balance is 470.
+Bank BISF                     | Deposit of 470 to Account47 accepted.
+Account Account47             | Deposited 470. New balance is 940.
+Bank BISF                     | Deposit of 470 to Account47 accepted.
+Account Account48             | Current balance is 480.
+Bank HSBC                     | Checking balance of Account48.
+Account Account48             | Withdrew 480. New balance is 0.
+Bank HSBC                     | Withdrawal of 480 from Account48 accepted.
+Account Account48             | Account opened.
+Bank BISF                     | Added an account named Account48.
+Account Account48             | Deposited 480. New balance is 480.
+Bank BISF                     | Deposit of 480 to Account48 accepted.
+Account Account48             | Deposited 480. New balance is 960.
+Bank BISF                     | Deposit of 480 to Account48 accepted.
+Account Account49             | Current balance is 490.
+Bank HSBC                     | Checking balance of Account49.
+Account Account49             | Withdrew 490. New balance is 0.
+Bank HSBC                     | Withdrawal of 490 from Account49 accepted.
+Account Account49             | Account opened.
+Bank BISF                     | Added an account named Account49.
+Account Account49             | Deposited 490. New balance is 490.
+Bank BISF                     | Deposit of 490 to Account49 accepted.
+Account Account49             | Deposited 490. New balance is 980.
+Bank BISF                     | Deposit of 490 to Account49 accepted.
+Account Account50             | Current balance is 500.
+Bank HSBC                     | Checking balance of Account50.
+Account Account50             | Withdrew 500. New balance is 0.
+Bank HSBC                     | Withdrawal of 500 from Account50 accepted.
+Account Account50             | Account opened.
+Bank BISF                     | Added an account named Account50.
+Account Account50             | Deposited 500. New balance is 500.
+Bank BISF                     | Deposit of 500 to Account50 accepted.
+Account Account50             | Deposited 500. New balance is 1000.
+Bank BISF                     | Deposit of 500 to Account50 accepted.
+Account Account51             | Current balance is 510.
+Bank HSBC                     | Checking balance of Account51.
+Account Account51             | Withdrew 510. New balance is 0.
+Bank HSBC                     | Withdrawal of 510 from Account51 accepted.
+Account Account51             | Account opened.
+Bank BISF                     | Added an account named Account51.
+Account Account51             | Deposited 510. New balance is 510.
+Bank BISF                     | Deposit of 510 to Account51 accepted.
+Account Account51             | Deposited 510. New balance is 1020.
+Bank BISF                     | Deposit of 510 to Account51 accepted.
+Account Account52             | Current balance is 520.
+Bank HSBC                     | Checking balance of Account52.
+Account Account52             | Withdrew 520. New balance is 0.
+Bank HSBC                     | Withdrawal of 520 from Account52 accepted.
+Account Account52             | Account opened.
+Bank BISF                     | Added an account named Account52.
+Account Account52             | Deposited 520. New balance is 520.
+Bank BISF                     | Deposit of 520 to Account52 accepted.
+Account Account52             | Deposited 520. New balance is 1040.
+Bank BISF                     | Deposit of 520 to Account52 accepted.
+Account Account53             | Current balance is 530.
+Bank HSBC                     | Checking balance of Account53.
+Account Account53             | Withdrew 530. New balance is 0.
+Bank HSBC                     | Withdrawal of 530 from Account53 accepted.
+Account Account53             | Account opened.
+Bank BISF                     | Added an account named Account53.
+Account Account53             | Deposited 530. New balance is 530.
+Bank BISF                     | Deposit of 530 to Account53 accepted.
+Account Account53             | Deposited 530. New balance is 1060.
+Bank BISF                     | Deposit of 530 to Account53 accepted.
+Account Account54             | Current balance is 540.
+Bank HSBC                     | Checking balance of Account54.
+Account Account54             | Withdrew 540. New balance is 0.
+Bank HSBC                     | Withdrawal of 540 from Account54 accepted.
+Account Account54             | Account opened.
+Bank BISF                     | Added an account named Account54.
+Account Account54             | Deposited 540. New balance is 540.
+Bank BISF                     | Deposit of 540 to Account54 accepted.
+Account Account54             | Deposited 540. New balance is 1080.
+Bank BISF                     | Deposit of 540 to Account54 accepted.
+Account Account55             | Current balance is 550.
+Bank HSBC                     | Checking balance of Account55.
+Account Account55             | Withdrew 550. New balance is 0.
+Bank HSBC                     | Withdrawal of 550 from Account55 accepted.
+Account Account55             | Account opened.
+Bank BISF                     | Added an account named Account55.
+Account Account55             | Deposited 550. New balance is 550.
+Bank BISF                     | Deposit of 550 to Account55 accepted.
+Account Account55             | Deposited 550. New balance is 1100.
+Bank BISF                     | Deposit of 550 to Account55 accepted.
+Account Account56             | Current balance is 560.
+Bank HSBC                     | Checking balance of Account56.
+Account Account56             | Withdrew 560. New balance is 0.
+Bank HSBC                     | Withdrawal of 560 from Account56 accepted.
+Account Account56             | Account opened.
+Bank BISF                     | Added an account named Account56.
+Account Account56             | Deposited 560. New balance is 560.
+Bank BISF                     | Deposit of 560 to Account56 accepted.
+Account Account56             | Deposited 560. New balance is 1120.
+Bank BISF                     | Deposit of 560 to Account56 accepted.
+Account Account57             | Current balance is 570.
+Bank HSBC                     | Checking balance of Account57.
+Account Account57             | Withdrew 570. New balance is 0.
+Bank HSBC                     | Withdrawal of 570 from Account57 accepted.
+Account Account57             | Account opened.
+Bank BISF                     | Added an account named Account57.
+Account Account57             | Deposited 570. New balance is 570.
+Bank BISF                     | Deposit of 570 to Account57 accepted.
+Account Account57             | Deposited 570. New balance is 1140.
+Bank BISF                     | Deposit of 570 to Account57 accepted.
+Account Account58             | Current balance is 580.
+Bank HSBC                     | Checking balance of Account58.
+Account Account58             | Withdrew 580. New balance is 0.
+Bank HSBC                     | Withdrawal of 580 from Account58 accepted.
+Account Account58             | Account opened.
+Bank BISF                     | Added an account named Account58.
+Account Account58             | Deposited 580. New balance is 580.
+Bank BISF                     | Deposit of 580 to Account58 accepted.
+Account Account58             | Deposited 580. New balance is 1160.
+Bank BISF                     | Deposit of 580 to Account58 accepted.
+Account Account59             | Current balance is 590.
+Bank HSBC                     | Checking balance of Account59.
+Account Account59             | Withdrew 590. New balance is 0.
+Bank HSBC                     | Withdrawal of 590 from Account59 accepted.
+Account Account59             | Account opened.
+Bank BISF                     | Added an account named Account59.
+Account Account59             | Deposited 590. New balance is 590.
+Bank BISF                     | Deposit of 590 to Account59 accepted.
+Account Account59             | Deposited 590. New balance is 1180.
+Bank BISF                     | Deposit of 590 to Account59 accepted.
+Account Account60             | Current balance is 600.
+Bank HSBC                     | Checking balance of Account60.
+Account Account60             | Withdrew 600. New balance is 0.
+Bank HSBC                     | Withdrawal of 600 from Account60 accepted.
+Account Account60             | Account opened.
+Bank BISF                     | Added an account named Account60.
+Account Account60             | Deposited 600. New balance is 600.
+Bank BISF                     | Deposit of 600 to Account60 accepted.
+Account Account60             | Deposited 600. New balance is 1200.
+Bank BISF                     | Deposit of 600 to Account60 accepted.
+Account Account61             | Current balance is 610.
+Bank HSBC                     | Checking balance of Account61.
+Account Account61             | Withdrew 610. New balance is 0.
+Bank HSBC                     | Withdrawal of 610 from Account61 accepted.
+Account Account61             | Account opened.
+Bank BISF                     | Added an account named Account61.
+Account Account61             | Deposited 610. New balance is 610.
+Bank BISF                     | Deposit of 610 to Account61 accepted.
+Account Account61             | Deposited 610. New balance is 1220.
+Bank BISF                     | Deposit of 610 to Account61 accepted.
+Account Account62             | Current balance is 620.
+Bank HSBC                     | Checking balance of Account62.
+Account Account62             | Withdrew 620. New balance is 0.
+Bank HSBC                     | Withdrawal of 620 from Account62 accepted.
+Account Account62             | Account opened.
+Bank BISF                     | Added an account named Account62.
+Account Account62             | Deposited 620. New balance is 620.
+Bank BISF                     | Deposit of 620 to Account62 accepted.
+Account Account62             | Deposited 620. New balance is 1240.
+Bank BISF                     | Deposit of 620 to Account62 accepted.
+Account Account63             | Current balance is 630.
+Bank HSBC                     | Checking balance of Account63.
+Account Account63             | Withdrew 630. New balance is 0.
+Bank HSBC                     | Withdrawal of 630 from Account63 accepted.
+Account Account63             | Account opened.
+Bank BISF                     | Added an account named Account63.
+Account Account63             | Deposited 630. New balance is 630.
+Bank BISF                     | Deposit of 630 to Account63 accepted.
+Account Account63             | Deposited 630. New balance is 1260.
+Bank BISF                     | Deposit of 630 to Account63 accepted.
+Account Account64             | Current balance is 640.
+Bank HSBC                     | Checking balance of Account64.
+Account Account64             | Withdrew 640. New balance is 0.
+Bank HSBC                     | Withdrawal of 640 from Account64 accepted.
+Account Account64             | Account opened.
+Bank BISF                     | Added an account named Account64.
+Account Account64             | Deposited 640. New balance is 640.
+Bank BISF                     | Deposit of 640 to Account64 accepted.
+Account Account64             | Deposited 640. New balance is 1280.
+Bank BISF                     | Deposit of 640 to Account64 accepted.
+Account Account65             | Current balance is 650.
+Bank HSBC                     | Checking balance of Account65.
+Account Account65             | Withdrew 650. New balance is 0.
+Bank HSBC                     | Withdrawal of 650 from Account65 accepted.
+Account Account65             | Account opened.
+Bank BISF                     | Added an account named Account65.
+Account Account65             | Deposited 650. New balance is 650.
+Bank BISF                     | Deposit of 650 to Account65 accepted.
+Account Account65             | Deposited 650. New balance is 1300.
+Bank BISF                     | Deposit of 650 to Account65 accepted.
+Account Account66             | Current balance is 660.
+Bank HSBC                     | Checking balance of Account66.
+Account Account66             | Withdrew 660. New balance is 0.
+Bank HSBC                     | Withdrawal of 660 from Account66 accepted.
+Account Account66             | Account opened.
+Bank BISF                     | Added an account named Account66.
+Account Account66             | Deposited 660. New balance is 660.
+Bank BISF                     | Deposit of 660 to Account66 accepted.
+Account Account66             | Deposited 660. New balance is 1320.
+Bank BISF                     | Deposit of 660 to Account66 accepted.
+Account Account67             | Current balance is 670.
+Bank HSBC                     | Checking balance of Account67.
+Account Account67             | Withdrew 670. New balance is 0.
+Bank HSBC                     | Withdrawal of 670 from Account67 accepted.
+Account Account67             | Account opened.
+Bank BISF                     | Added an account named Account67.
+Account Account67             | Deposited 670. New balance is 670.
+Bank BISF                     | Deposit of 670 to Account67 accepted.
+Account Account67             | Deposited 670. New balance is 1340.
+Bank BISF                     | Deposit of 670 to Account67 accepted.
+Account Account68             | Current balance is 680.
+Bank HSBC                     | Checking balance of Account68.
+Account Account68             | Withdrew 680. New balance is 0.
+Bank HSBC                     | Withdrawal of 680 from Account68 accepted.
+Account Account68             | Account opened.
+Bank BISF                     | Added an account named Account68.
+Account Account68             | Deposited 680. New balance is 680.
+Bank BISF                     | Deposit of 680 to Account68 accepted.
+Account Account68             | Deposited 680. New balance is 1360.
+Bank BISF                     | Deposit of 680 to Account68 accepted.
+Account Account69             | Current balance is 690.
+Bank HSBC                     | Checking balance of Account69.
+Account Account69             | Withdrew 690. New balance is 0.
+Bank HSBC                     | Withdrawal of 690 from Account69 accepted.
+Account Account69             | Account opened.
+Bank BISF                     | Added an account named Account69.
+Account Account69             | Deposited 690. New balance is 690.
+Bank BISF                     | Deposit of 690 to Account69 accepted.
+Account Account69             | Deposited 690. New balance is 1380.
+Bank BISF                     | Deposit of 690 to Account69 accepted.
+Account Account70             | Current balance is 700.
+Bank HSBC                     | Checking balance of Account70.
+Account Account70             | Withdrew 700. New balance is 0.
+Bank HSBC                     | Withdrawal of 700 from Account70 accepted.
+Account Account70             | Account opened.
+Bank BISF                     | Added an account named Account70.
+Account Account70             | Deposited 700. New balance is 700.
+Bank BISF                     | Deposit of 700 to Account70 accepted.
+Account Account70             | Deposited 700. New balance is 1400.
+Bank BISF                     | Deposit of 700 to Account70 accepted.
+Account Account71             | Current balance is 710.
+Bank HSBC                     | Checking balance of Account71.
+Account Account71             | Withdrew 710. New balance is 0.
+Bank HSBC                     | Withdrawal of 710 from Account71 accepted.
+Account Account71             | Account opened.
+Bank BISF                     | Added an account named Account71.
+Account Account71             | Deposited 710. New balance is 710.
+Bank BISF                     | Deposit of 710 to Account71 accepted.
+Account Account71             | Deposited 710. New balance is 1420.
+Bank BISF                     | Deposit of 710 to Account71 accepted.
+Account Account72             | Current balance is 720.
+Bank HSBC                     | Checking balance of Account72.
+Account Account72             | Withdrew 720. New balance is 0.
+Bank HSBC                     | Withdrawal of 720 from Account72 accepted.
+Account Account72             | Account opened.
+Bank BISF                     | Added an account named Account72.
+Account Account72             | Deposited 720. New balance is 720.
+Bank BISF                     | Deposit of 720 to Account72 accepted.
+Account Account72             | Deposited 720. New balance is 1440.
+Bank BISF                     | Deposit of 720 to Account72 accepted.
+Account Account73             | Current balance is 730.
+Bank HSBC                     | Checking balance of Account73.
+Account Account73             | Withdrew 730. New balance is 0.
+Bank HSBC                     | Withdrawal of 730 from Account73 accepted.
+Account Account73             | Account opened.
+Bank BISF                     | Added an account named Account73.
+Account Account73             | Deposited 730. New balance is 730.
+Bank BISF                     | Deposit of 730 to Account73 accepted.
+Account Account73             | Deposited 730. New balance is 1460.
+Bank BISF                     | Deposit of 730 to Account73 accepted.
+Account Account74             | Current balance is 740.
+Bank HSBC                     | Checking balance of Account74.
+Account Account74             | Withdrew 740. New balance is 0.
+Bank HSBC                     | Withdrawal of 740 from Account74 accepted.
+Account Account74             | Account opened.
+Bank BISF                     | Added an account named Account74.
+Account Account74             | Deposited 740. New balance is 740.
+Bank BISF                     | Deposit of 740 to Account74 accepted.
+Account Account74             | Deposited 740. New balance is 1480.
+Bank BISF                     | Deposit of 740 to Account74 accepted.
+Account Account75             | Current balance is 750.
+Bank HSBC                     | Checking balance of Account75.
+Account Account75             | Withdrew 750. New balance is 0.
+Bank HSBC                     | Withdrawal of 750 from Account75 accepted.
+Account Account75             | Account opened.
+Bank BISF                     | Added an account named Account75.
+Account Account75             | Deposited 750. New balance is 750.
+Bank BISF                     | Deposit of 750 to Account75 accepted.
+Account Account75             | Deposited 750. New balance is 1500.
+Bank BISF                     | Deposit of 750 to Account75 accepted.
+Account Account76             | Current balance is 760.
+Bank HSBC                     | Checking balance of Account76.
+Account Account76             | Withdrew 760. New balance is 0.
+Bank HSBC                     | Withdrawal of 760 from Account76 accepted.
+Account Account76             | Account opened.
+Bank BISF                     | Added an account named Account76.
+Account Account76             | Deposited 760. New balance is 760.
+Bank BISF                     | Deposit of 760 to Account76 accepted.
+Account Account76             | Deposited 760. New balance is 1520.
+Bank BISF                     | Deposit of 760 to Account76 accepted.
+Account Account77             | Current balance is 770.
+Bank HSBC                     | Checking balance of Account77.
+Account Account77             | Withdrew 770. New balance is 0.
+Bank HSBC                     | Withdrawal of 770 from Account77 accepted.
+Account Account77             | Account opened.
+Bank BISF                     | Added an account named Account77.
+Account Account77             | Deposited 770. New balance is 770.
+Bank BISF                     | Deposit of 770 to Account77 accepted.
+Account Account77             | Deposited 770. New balance is 1540.
+Bank BISF                     | Deposit of 770 to Account77 accepted.
+Account Account78             | Current balance is 780.
+Bank HSBC                     | Checking balance of Account78.
+Account Account78             | Withdrew 780. New balance is 0.
+Bank HSBC                     | Withdrawal of 780 from Account78 accepted.
+Account Account78             | Account opened.
+Bank BISF                     | Added an account named Account78.
+Account Account78             | Deposited 780. New balance is 780.
+Bank BISF                     | Deposit of 780 to Account78 accepted.
+Account Account78             | Deposited 780. New balance is 1560.
+Bank BISF                     | Deposit of 780 to Account78 accepted.
+Account Account79             | Current balance is 790.
+Bank HSBC                     | Checking balance of Account79.
+Account Account79             | Withdrew 790. New balance is 0.
+Bank HSBC                     | Withdrawal of 790 from Account79 accepted.
+Account Account79             | Account opened.
+Bank BISF                     | Added an account named Account79.
+Account Account79             | Deposited 790. New balance is 790.
+Bank BISF                     | Deposit of 790 to Account79 accepted.
+Account Account79             | Deposited 790. New balance is 1580.
+Bank BISF                     | Deposit of 790 to Account79 accepted.
+Account Account80             | Current balance is 800.
+Bank HSBC                     | Checking balance of Account80.
+Account Account80             | Withdrew 800. New balance is 0.
+Bank HSBC                     | Withdrawal of 800 from Account80 accepted.
+Account Account80             | Account opened.
+Bank BISF                     | Added an account named Account80.
+Account Account80             | Deposited 800. New balance is 800.
+Bank BISF                     | Deposit of 800 to Account80 accepted.
+Account Account80             | Deposited 800. New balance is 1600.
+Bank BISF                     | Deposit of 800 to Account80 accepted.
+Account Account81             | Current balance is 810.
+Bank HSBC                     | Checking balance of Account81.
+Account Account81             | Withdrew 810. New balance is 0.
+Bank HSBC                     | Withdrawal of 810 from Account81 accepted.
+Account Account81             | Account opened.
+Bank BISF                     | Added an account named Account81.
+Account Account81             | Deposited 810. New balance is 810.
+Bank BISF                     | Deposit of 810 to Account81 accepted.
+Account Account81             | Deposited 810. New balance is 1620.
+Bank BISF                     | Deposit of 810 to Account81 accepted.
+Account Account82             | Current balance is 820.
+Bank HSBC                     | Checking balance of Account82.
+Account Account82             | Withdrew 820. New balance is 0.
+Bank HSBC                     | Withdrawal of 820 from Account82 accepted.
+Account Account82             | Account opened.
+Bank BISF                     | Added an account named Account82.
+Account Account82             | Deposited 820. New balance is 820.
+Bank BISF                     | Deposit of 820 to Account82 accepted.
+Account Account82             | Deposited 820. New balance is 1640.
+Bank BISF                     | Deposit of 820 to Account82 accepted.
+Account Account83             | Current balance is 830.
+Bank HSBC                     | Checking balance of Account83.
+Account Account83             | Withdrew 830. New balance is 0.
+Bank HSBC                     | Withdrawal of 830 from Account83 accepted.
+Account Account83             | Account opened.
+Bank BISF                     | Added an account named Account83.
+Account Account83             | Deposited 830. New balance is 830.
+Bank BISF                     | Deposit of 830 to Account83 accepted.
+Account Account83             | Deposited 830. New balance is 1660.
+Bank BISF                     | Deposit of 830 to Account83 accepted.
+Account Account84             | Current balance is 840.
+Bank HSBC                     | Checking balance of Account84.
+Account Account84             | Withdrew 840. New balance is 0.
+Bank HSBC                     | Withdrawal of 840 from Account84 accepted.
+Account Account84             | Account opened.
+Bank BISF                     | Added an account named Account84.
+Account Account84             | Deposited 840. New balance is 840.
+Bank BISF                     | Deposit of 840 to Account84 accepted.
+Account Account84             | Deposited 840. New balance is 1680.
+Bank BISF                     | Deposit of 840 to Account84 accepted.
+Account Account85             | Current balance is 850.
+Bank HSBC                     | Checking balance of Account85.
+Account Account85             | Withdrew 850. New balance is 0.
+Bank HSBC                     | Withdrawal of 850 from Account85 accepted.
+Account Account85             | Account opened.
+Bank BISF                     | Added an account named Account85.
+Account Account85             | Deposited 850. New balance is 850.
+Bank BISF                     | Deposit of 850 to Account85 accepted.
+Account Account85             | Deposited 850. New balance is 1700.
+Bank BISF                     | Deposit of 850 to Account85 accepted.
+Account Account86             | Current balance is 860.
+Bank HSBC                     | Checking balance of Account86.
+Account Account86             | Withdrew 860. New balance is 0.
+Bank HSBC                     | Withdrawal of 860 from Account86 accepted.
+Account Account86             | Account opened.
+Bank BISF                     | Added an account named Account86.
+Account Account86             | Deposited 860. New balance is 860.
+Bank BISF                     | Deposit of 860 to Account86 accepted.
+Account Account86             | Deposited 860. New balance is 1720.
+Bank BISF                     | Deposit of 860 to Account86 accepted.
+Account Account87             | Current balance is 870.
+Bank HSBC                     | Checking balance of Account87.
+Account Account87             | Withdrew 870. New balance is 0.
+Bank HSBC                     | Withdrawal of 870 from Account87 accepted.
+Account Account87             | Account opened.
+Bank BISF                     | Added an account named Account87.
+Account Account87             | Deposited 870. New balance is 870.
+Bank BISF                     | Deposit of 870 to Account87 accepted.
+Account Account87             | Deposited 870. New balance is 1740.
+Bank BISF                     | Deposit of 870 to Account87 accepted.
+Account Account88             | Current balance is 880.
+Bank HSBC                     | Checking balance of Account88.
+Account Account88             | Withdrew 880. New balance is 0.
+Bank HSBC                     | Withdrawal of 880 from Account88 accepted.
+Account Account88             | Account opened.
+Bank BISF                     | Added an account named Account88.
+Account Account88             | Deposited 880. New balance is 880.
+Bank BISF                     | Deposit of 880 to Account88 accepted.
+Account Account88             | Deposited 880. New balance is 1760.
+Bank BISF                     | Deposit of 880 to Account88 accepted.
+Account Account89             | Current balance is 890.
+Bank HSBC                     | Checking balance of Account89.
+Account Account89             | Withdrew 890. New balance is 0.
+Bank HSBC                     | Withdrawal of 890 from Account89 accepted.
+Account Account89             | Account opened.
+Bank BISF                     | Added an account named Account89.
+Account Account89             | Deposited 890. New balance is 890.
+Bank BISF                     | Deposit of 890 to Account89 accepted.
+Account Account89             | Deposited 890. New balance is 1780.
+Bank BISF                     | Deposit of 890 to Account89 accepted.
+Account Account90             | Current balance is 900.
+Bank HSBC                     | Checking balance of Account90.
+Account Account90             | Withdrew 900. New balance is 0.
+Bank HSBC                     | Withdrawal of 900 from Account90 accepted.
+Account Account90             | Account opened.
+Bank BISF                     | Added an account named Account90.
+Account Account90             | Deposited 900. New balance is 900.
+Bank BISF                     | Deposit of 900 to Account90 accepted.
+Account Account90             | Deposited 900. New balance is 1800.
+Bank BISF                     | Deposit of 900 to Account90 accepted.
+Account Account91             | Current balance is 910.
+Bank HSBC                     | Checking balance of Account91.
+Account Account91             | Withdrew 910. New balance is 0.
+Bank HSBC                     | Withdrawal of 910 from Account91 accepted.
+Account Account91             | Account opened.
+Bank BISF                     | Added an account named Account91.
+Account Account91             | Deposited 910. New balance is 910.
+Bank BISF                     | Deposit of 910 to Account91 accepted.
+Account Account91             | Deposited 910. New balance is 1820.
+Bank BISF                     | Deposit of 910 to Account91 accepted.
+Account Account92             | Current balance is 920.
+Bank HSBC                     | Checking balance of Account92.
+Account Account92             | Withdrew 920. New balance is 0.
+Bank HSBC                     | Withdrawal of 920 from Account92 accepted.
+Account Account92             | Account opened.
+Bank BISF                     | Added an account named Account92.
+Account Account92             | Deposited 920. New balance is 920.
+Bank BISF                     | Deposit of 920 to Account92 accepted.
+Account Account92             | Deposited 920. New balance is 1840.
+Bank BISF                     | Deposit of 920 to Account92 accepted.
+Account Account93             | Current balance is 930.
+Bank HSBC                     | Checking balance of Account93.
+Account Account93             | Withdrew 930. New balance is 0.
+Bank HSBC                     | Withdrawal of 930 from Account93 accepted.
+Account Account93             | Account opened.
+Bank BISF                     | Added an account named Account93.
+Account Account93             | Deposited 930. New balance is 930.
+Bank BISF                     | Deposit of 930 to Account93 accepted.
+Account Account93             | Deposited 930. New balance is 1860.
+Bank BISF                     | Deposit of 930 to Account93 accepted.
+Account Account94             | Current balance is 940.
+Bank HSBC                     | Checking balance of Account94.
+Account Account94             | Withdrew 940. New balance is 0.
+Bank HSBC                     | Withdrawal of 940 from Account94 accepted.
+Account Account94             | Account opened.
+Bank BISF                     | Added an account named Account94.
+Account Account94             | Deposited 940. New balance is 940.
+Bank BISF                     | Deposit of 940 to Account94 accepted.
+Account Account94             | Deposited 940. New balance is 1880.
+Bank BISF                     | Deposit of 940 to Account94 accepted.
+Account Account95             | Current balance is 950.
+Bank HSBC                     | Checking balance of Account95.
+Account Account95             | Withdrew 950. New balance is 0.
+Bank HSBC                     | Withdrawal of 950 from Account95 accepted.
+Account Account95             | Account opened.
+Bank BISF                     | Added an account named Account95.
+Account Account95             | Deposited 950. New balance is 950.
+Bank BISF                     | Deposit of 950 to Account95 accepted.
+Account Account95             | Deposited 950. New balance is 1900.
+Bank BISF                     | Deposit of 950 to Account95 accepted.
+Account Account96             | Current balance is 960.
+Bank HSBC                     | Checking balance of Account96.
+Account Account96             | Withdrew 960. New balance is 0.
+Bank HSBC                     | Withdrawal of 960 from Account96 accepted.
+Account Account96             | Account opened.
+Bank BISF                     | Added an account named Account96.
+Account Account96             | Deposited 960. New balance is 960.
+Bank BISF                     | Deposit of 960 to Account96 accepted.
+Account Account96             | Deposited 960. New balance is 1920.
+Bank BISF                     | Deposit of 960 to Account96 accepted.
+Account Account97             | Current balance is 970.
+Bank HSBC                     | Checking balance of Account97.
+Account Account97             | Withdrew 970. New balance is 0.
+Bank HSBC                     | Withdrawal of 970 from Account97 accepted.
+Account Account97             | Account opened.
+Bank BISF                     | Added an account named Account97.
+Account Account97             | Deposited 970. New balance is 970.
+Bank BISF                     | Deposit of 970 to Account97 accepted.
+Account Account97             | Deposited 970. New balance is 1940.
+Bank BISF                     | Deposit of 970 to Account97 accepted.
+Account Account98             | Current balance is 980.
+Bank HSBC                     | Checking balance of Account98.
+Account Account98             | Withdrew 980. New balance is 0.
+Bank HSBC                     | Withdrawal of 980 from Account98 accepted.
+Account Account98             | Account opened.
+Bank BISF                     | Added an account named Account98.
+Account Account98             | Deposited 980. New balance is 980.
+Bank BISF                     | Deposit of 980 to Account98 accepted.
+Account Account98             | Deposited 980. New balance is 1960.
+Bank BISF                     | Deposit of 980 to Account98 accepted.
+Account Account99             | Current balance is 990.
+Bank HSBC                     | Checking balance of Account99.
+Account Account99             | Withdrew 990. New balance is 0.
+Bank HSBC                     | Withdrawal of 990 from Account99 accepted.
+Account Account99             | Account opened.
+Bank BISF                     | Added an account named Account99.
+Account Account99             | Deposited 990. New balance is 990.
+Bank BISF                     | Deposit of 990 to Account99 accepted.
+Account Account99             | Deposited 990. New balance is 1980.
+Bank BISF                     | Deposit of 990 to Account99 accepted.
