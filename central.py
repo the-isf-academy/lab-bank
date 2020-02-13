@@ -17,5 +17,5 @@ hsbc.check_balance("Han")
 hsbc.deposit("Han", 240)
 
 for amount in range(10):
-    if hsbc.withdraw("Han", 10 * amount):
-        hsbc.deposit("Wolf", 10 * amount)
+    if (hsbc.withdraw("Han", amount*10)):
+        hsbc.deposit("Wolf", amount*10)

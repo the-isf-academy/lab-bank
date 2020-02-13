@@ -28,6 +28,7 @@ class TestBankLab(unittest.TestCase):
         """
         Test to make sure students code matches described state
         """
+        print("\n\nTESTING PART2 FUNCTION:")
         f = open("test_output.txt", "r")
         expected_output = f.read()
         f.close()
@@ -35,102 +36,154 @@ class TestBankLab(unittest.TestCase):
         sys.stdout = io.StringIO()
         part2()
         output = sys.stdout.getvalue()
-        self.assertEqual(output, expected_output)
         sys.stdout = stdout
+        print(output)
+        print("TEST COMPLETE. TEST RESULT:")
+        self.assertEqual(output, expected_output)
 
     def test_transfer0(self):
         """
         Test simple transfer that should be successful
         """
-        stdout = sys.stdout
-        sys.stdout = io.StringIO()
+        # stdout = sys.stdout
+        # sys.stdout = io.StringIO()
+        print("\n\nTESTING TRANSFER SCENARIO 0:")
         hsbc = Bank("HSBC")
         hsbc.add_account("Han")
         hsbc.deposit("Han", 200)
         hsbc.add_account("Proctor")
-        self.assertTrue(hsbc.transfer("Han", "Proctor", 100))
-        self.assertEqual(hsbc.check_balance("Han"), 100)
-        self.assertEqual(hsbc.check_balance("Proctor"), 100)
-        output = sys.stdout.getvalue()
-        sys.stdout = stdout
+        test0 = hsbc.transfer("Han", "Proctor", 100)
+        test1 = hsbc.check_balance("Han")
+        test2 = hsbc.check_balance("Proctor")
+        print("TRANSFER SCENARIO 0 COMPLETE. TEST RESULT:")
+        self.assertTrue(test0)
+        self.assertEqual(test1, 100)
+        self.assertEqual(test2, 100)
+        # output = sys.stdout.getvalue()
+        # sys.stdout = stdout
 
     def test_transfer1(self):
         """
         Test transfer that should be unsuccessful due to insufficient funds
         """
-        stdout = sys.stdout
-        sys.stdout = io.StringIO()
+        # stdout = sys.stdout
+        # sys.stdout = io.StringIO()
+        print("\n\nTESTING TRANSFER SCENARIO 1:")
         hsbc = Bank("HSBC")
         hsbc.add_account("Han")
         hsbc.deposit("Han", 200)
         hsbc.add_account("Proctor")
-        self.assertFalse(hsbc.transfer("Han", "Proctor", 300))
-        self.assertEqual(hsbc.check_balance("Han"), 200)
-        self.assertEqual(hsbc.check_balance("Proctor"), 0)
-        output = sys.stdout.getvalue()
-        sys.stdout = stdout
+        test0 = hsbc.transfer("Han", "Proctor", 100)
+        test1 = hsbc.check_balance("Han")
+        test2 = hsbc.check_balance("Proctor")
+        test3 = hsbc.transfer("Han", "Proctor", 150)
+        test4 = hsbc.check_balance("Han")
+        test5 = hsbc.check_balance("Proctor")
+        print("TRANSFER SCENARIO 1 COMPLETE. TEST RESULT:")
+        self.assertTrue(test0)
+        self.assertEqual(test1, 100)
+        self.assertEqual(test2, 100)
+        self.assertFalse(test3)
+        self.assertEqual(test4, 100)
+        self.assertEqual(test5, 100)
+        # output = sys.stdout.getvalue()
+        # sys.stdout = stdout
 
     def test_transfer2(self):
         """
         Test transfer that should be unsuccessful due to non-existent transfer_from_acct
         """
-        stdout = sys.stdout
-        sys.stdout = io.StringIO()
+        # stdout = sys.stdout
+        # sys.stdout = io.StringIO()
+        print("\n\nTESTING TRANSFER SCENARIO 2:")
         hsbc = Bank("HSBC")
         hsbc.add_account("Han")
         hsbc.deposit("Han", 200)
         hsbc.add_account("Proctor")
-        self.assertFalse(hsbc.transfer("nope", "Proctor", 100))
-        self.assertEqual(hsbc.check_balance("Han"), 200)
-        self.assertEqual(hsbc.check_balance("Proctor"), 0)
-        output = sys.stdout.getvalue()
-        sys.stdout = stdout
+        test0 = hsbc.transfer("Han", "Proctor", 100)
+        test1 = hsbc.check_balance("Han")
+        test2 = hsbc.check_balance("Proctor")
+        test3 = hsbc.transfer("nope", "Proctor", 100)
+        test4 = hsbc.check_balance("Han")
+        test5 = hsbc.check_balance("Proctor")
+        print("TRANSFER SCENARIO 2 COMPLETE. TEST RESULT:")
+        self.assertTrue(test0)
+        self.assertEqual(test1, 100)
+        self.assertEqual(test2, 100)
+        self.assertFalse(test3)
+        self.assertEqual(test4, 100)
+        self.assertEqual(test5, 100)
+        # output = sys.stdout.getvalue()
+        # sys.stdout = stdout
 
     def test_transfer3(self):
         """
         Test transfer that should be unsuccessful due to non-existent transfer_to_acct
         """
-        stdout = sys.stdout
-        sys.stdout = io.StringIO()
+        # stdout = sys.stdout
+        # sys.stdout = io.StringIO()
+        print("\n\nTESTING TRANSFER SCENARIO 3:")
         hsbc = Bank("HSBC")
         hsbc.add_account("Han")
         hsbc.deposit("Han", 200)
         hsbc.add_account("Proctor")
-        self.assertFalse(hsbc.transfer("Han", "nope", 100))
-        self.assertEqual(hsbc.check_balance("Han"), 200)
-        self.assertEqual(hsbc.check_balance("Proctor"), 0)
-        output = sys.stdout.getvalue()
-        sys.stdout = stdout
+        test0 = hsbc.transfer("Han", "Proctor", 100)
+        test1 = hsbc.check_balance("Han")
+        test2 = hsbc.check_balance("Proctor")
+        test3 = hsbc.transfer("Han", "nope", 100)
+        test4 = hsbc.check_balance("Han")
+        test5 = hsbc.check_balance("Proctor")
+        print("TRANSFER SCENARIO 3 COMPLETE. TEST RESULT:")
+        self.assertTrue(test0)
+        self.assertEqual(test1, 100)
+        self.assertEqual(test2, 100)
+        self.assertFalse(test3)
+        self.assertEqual(test4, 100)
+        self.assertEqual(test5, 100)
+        # output = sys.stdout.getvalue()
+        # sys.stdout = stdout
 
     def test_transfer4(self):
         """
-        Edge cases:
-            negative value transfer (should fail)
-            transfer to same account (either return true or false but should not increment account)
+        Edge cases: transfer to same account (either return true or false but should not increment account)
         """
-        stdout = sys.stdout
-        sys.stdout = io.StringIO()
+        # stdout = sys.stdout
+        # sys.stdout = io.StringIO()
+        print("\n\nTESTING TRANSFER SCENARIO 4:")
         hsbc = Bank("HSBC")
         hsbc.add_account("Han")
         hsbc.deposit("Han", 200)
+        hsbc.add_account("Proctor")
+        test0 = hsbc.transfer("Han", "Proctor", 100)
+        test1 = hsbc.check_balance("Han")
+        test2 = hsbc.check_balance("Proctor")
         hsbc.transfer("Han", "Han", 100)
-        self.assertEqual(hsbc.check_balance("Han"), 200)
-        output = sys.stdout.getvalue()
-        sys.stdout = stdout
+        test3 = hsbc.check_balance("Han")
+        print("TRANSFER SCENARIO 4 COMPLETE. TEST RESULT:")
+        self.assertTrue(test0)
+        self.assertEqual(test1, 100)
+        self.assertEqual(test2, 100)
+        self.assertEqual(test3, 100)
+        # output = sys.stdout.getvalue()
+        # sys.stdout = stdout
 
     def test_bug_fix(self):
         """
         Testing to see if student has addressed security flaw.
         """
-        stdout = sys.stdout
-        sys.stdout = io.StringIO()
+        # stdout = sys.stdout
+        # sys.stdout = io.StringIO()
+        print("\n\nTESTING SECURITY BUG SCENARIO:")
         hsbc = Bank("HSBC")
         hsbc.add_account("Han")
         hsbc.deposit("Han", 200)
         hsbc.withdraw("Han", 100)
-        self.assertFalse(hsbc.withdraw("Han", -1000))
-        self.assertEqual(hsbc.check_balance("Han"), 100)
-        output = sys.stdout.getvalue()
-        sys.stdout = stdout
+        test0 = hsbc.withdraw("Han", -1000)
+        test1 = hsbc.check_balance("Han")
+        print("SECURITY BUG SCENARIO COMPLETE. TEST RESULT:")
+        self.assertFalse(test0)
+        self.assertEqual(test1, 100)
+        # output = sys.stdout.getvalue()
+        # sys.stdout = stdout
 
 unittest.main()

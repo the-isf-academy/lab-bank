@@ -12,5 +12,6 @@ def part2():
 
     # 💻 YOUR CODE HERE
 
+
 if __name__ == "__main__":
     part2()
