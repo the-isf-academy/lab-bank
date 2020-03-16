@@ -186,4 +186,5 @@ class TestBankLab(unittest.TestCase):
         # output = sys.stdout.getvalue()
         # sys.stdout = stdout
 
-unittest.main()
+if __name__ == '__main__':
+    unittest.main()
