@@ -4,8 +4,6 @@
 name: Python application
 
 on:
-  push:
-    branches: [ master ]
   pull_request:
     branches: [ master ]
 
@@ -35,22 +33,9 @@ jobs:
       run: |
         pip install pytest
         pytest
-        echo $?
-    - uses: JasonEtco/create-an-issue@v2
-      if: success()
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        filename: .github/TEST_SUCCESS_TEMPLATE.md
-    - uses: JasonEtco/create-an-issue@v2
-      if: failure()
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        filename: .github/TEST_FAIL_TEMPLATE.md
-    - name: Discord notification
+    - name: Actions for Discord
       env:
         DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-      uses: Ilshidur/action-discord@master
+      uses: Ilshidur/action-discord@0.0.2
       with:
-        args: '{{ payload.sender.login }} pushed to {{ EVENT_PAYLOAD.repository.full_name }}. Test status: ${{job.status}}'
+        args: '{{ payload.sender.login }} made a pull request to {{ EVENT_PAYLOAD.repository.full_name }}. Test status: ${{job.status}}'
