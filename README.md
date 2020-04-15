@@ -1,4 +1,5 @@
 # Unit 2 Lab: Don't break the bank
+This lab introduces students to object-oriented programming through buggy banking software. Students work to understanding the way each class works together to create a banking system in order to fix the bugs in the software.
 
 ## Getting started
 
