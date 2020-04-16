@@ -3,3 +3,4 @@
 *.pyc
 __pycache__/*
 docs/_build/*
+student_repos/
