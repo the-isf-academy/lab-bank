@@ -21,6 +21,7 @@ import sys, io
 
 from bank import Bank
 from part2 import part2
+# from part2b import part2b
 
 class TestBankLab(unittest.TestCase):
 
@@ -38,8 +39,11 @@ class TestBankLab(unittest.TestCase):
         output = sys.stdout.getvalue()
         sys.stdout = stdout
         print(output)
+        print("hi",expected_output)
         print("TEST COMPLETE. TEST RESULT:")
         self.assertEqual(output, expected_output)
+
+
 
     def test_transfer0(self):
         """
@@ -185,6 +189,8 @@ class TestBankLab(unittest.TestCase):
         self.assertEqual(test1, 100)
         # output = sys.stdout.getvalue()
         # sys.stdout = stdout
+
+
 
 if __name__ == '__main__':
     unittest.main()

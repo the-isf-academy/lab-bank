@@ -1,11 +1,7 @@
-# part2.py
-# Author: [YOUR NAME HERE]
-#
-# This file should contain a Python program which generates a Bank and Account objects to match the state described in the lab spec sheet.
 
 from bank import Bank
 
-def part2():
+def part2b():
     """
     Function which creates the state of Banks and Accounts described in the lab spec webpage.
     """
@@ -32,4 +28,4 @@ def part2():
 
 
 if __name__ == "__main__":
-    part2()
+    part2b()

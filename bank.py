@@ -122,7 +122,7 @@ class Bank:
         Args:
             activity (str): A description of what happened.
         """
-        print("{:30}| {}.".format("Bank " + self.name, activity))
+        print("{:30}| {}.\n---".format("Bank " + self.name, activity))
 
 
 
