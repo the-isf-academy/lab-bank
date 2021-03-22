@@ -5,7 +5,7 @@
 
 from bank import Bank
 
-def part2():
+def promotion():
     """
     Function which creates the state of Banks and Accounts described in the lab spec webpage.
     """

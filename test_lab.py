@@ -20,26 +20,25 @@ import unittest
 import sys, io
 
 from bank import Bank
-from part2 import part2
+from promotion import promotion
 # from part2b import part2b
 
 class TestBankLab(unittest.TestCase):
 
-    def test_part2(self):
+    def test_promotion(self):
         """
         Test to make sure students code matches described state
         """
-        print("\n\nTESTING PART2 FUNCTION:")
+        print("\n\nTESTING PROMOTION FUNCTION:")
         f = open("test_output.txt", "r")
         expected_output = f.read()
         f.close()
         stdout = sys.stdout
         sys.stdout = io.StringIO()
-        part2()
+        promotion()
         output = sys.stdout.getvalue()
         sys.stdout = stdout
         print(output)
-        print("hi",expected_output)
         print("TEST COMPLETE. TEST RESULT:")
         self.assertEqual(output, expected_output)
 
